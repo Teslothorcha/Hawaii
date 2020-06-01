@@ -1,0 +1,7 @@
+__pycache__
+sitehawaii.sqlite
+apihawaii.sqlite
+apihaaii.sqlite
+.ipynb
+hawaii-env/
+.ipynb_checkpoints/
