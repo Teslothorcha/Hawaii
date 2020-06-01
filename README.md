@@ -56,7 +56,7 @@ Run it
 
 # Optional
 
-Los retos opcionales fueron solucionados con jupyter-noteboook y pandas, se encuentran en el archivo
+The optional challenges were solved using jupyter-notebook ands pandas, they could be reviewed on the following file
 
 <code>hawaii_precipitation.ipynb </code>
 
