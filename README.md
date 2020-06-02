@@ -60,4 +60,4 @@ The optional challenges were solved using jupyter-notebook ands pandas, they cou
 
 <code>hawaii_precipitation.ipynb </code>
 
-Juan David Marin Bernal
+Juan David Marin Bernal.
